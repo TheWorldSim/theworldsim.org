@@ -3563,6 +3563,10 @@
     .logo {
       max-width: 143px;
     }
+
+    .subproject_logo {
+      /* max-width: 200px; */
+    }
   }
   
   .header-bar {

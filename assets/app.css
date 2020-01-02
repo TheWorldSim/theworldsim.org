@@ -3120,8 +3120,8 @@
   }
   
   .h2 {
-    font-size: 4.5rem;
-    line-height: .85;
+    font-size: 3rem;
+    line-height: .95;
   }
   
   @media (min-width: 576px) {

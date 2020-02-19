@@ -3134,6 +3134,9 @@ h6 {
   .h2 {
     font-size: 6rem;
   }
+  .h2.small {
+    font-size: 5rem;
+  }
 }
 
 @media (min-width: 992px) {

@@ -3678,6 +3678,9 @@ body.is-open {
   height: .35rem;
   content: "";
 }
+.nav-trigger:hover span, .nav-trigger:hover span::before, .nav-trigger:hover span::after {
+  background-color: orange;
+}
 
 .nav-trigger.is_open {
   height: 120px;

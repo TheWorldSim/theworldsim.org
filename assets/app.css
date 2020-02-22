@@ -4897,3 +4897,24 @@ hr {
   margin: 0 auto;
   width: 40%;
 } */
+
+.video-container
+{
+  margin: 0 auto;
+  width: 400px;
+  height: 226px;
+}
+@media (min-width: 576px) {
+  .video-container
+  {
+    width: 560px;
+    height: 315px;
+  }
+}
+@media (min-width: 768px) {
+  .video-container
+  {
+    width: 800px;
+    height: 450px;
+  }
+}

@@ -4918,3 +4918,36 @@ hr {
     height: 450px;
   }
 }
+
+.play-it-now
+{
+  margin: 20px;
+  border-radius: 8px;
+  padding: 12px 30px;
+  background-color: #1b93ce;
+  color: #ffffff;
+  text-shadow: #d10000 0px 0px 10px;
+  font-size: 3rem;
+  min-width: 100px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.play-it-now:hover {background-color:orange;}
+
+.play-it-now:focus{background-color:red;}
+
+.link {
+  text-decoration: underline;
+  color: #1b93ce;
+}
+.highlighted {
+  color: #40b1fc;
+}
+.link:hover {
+  color: orange;
+}
+
+.versions-list li {
+  margin: 10px;
+}
